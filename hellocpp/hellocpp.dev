@@ -27,7 +27,7 @@ CommandLine=
 Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=0
+CompilerSet=6
 CompilerSettings=0000000000000000001000000
 UnitCount=1
 
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=cin.cpp
+FileName=range-based.cpp
 CompileCpp=1
 Folder=
 Compile=1
