@@ -15,8 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="class2.cpp">
+    <ClCompile Include="matome.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="e_maxmin.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="e_maxmin.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

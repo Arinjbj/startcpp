@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="class2.cpp" />
+    <ClCompile Include="matome.cpp" />
+    <ClCompile Include="e_maxmin.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="e_maxmin.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
