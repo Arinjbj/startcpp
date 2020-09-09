@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Class1.cpp" />
-    <ClCompile Include="classsample.cpp" />
+    <ClCompile Include="stdweightmain.cpp" />
+    <ClCompile Include="stdweight.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="classsample.h" />
+    <ClInclude Include="stdweight.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
