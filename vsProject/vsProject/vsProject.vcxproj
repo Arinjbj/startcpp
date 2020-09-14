@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="adminstudent.cpp" />
-    <ClCompile Include="adminstudentmain.cpp" />
+    <ClCompile Include="ch08_ex02.cpp" />
+    <ClCompile Include="ch08_triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="adminstudent.h" />
+    <ClInclude Include="ch08_triangle.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
