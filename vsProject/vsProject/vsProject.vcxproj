@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch08_ex02.cpp" />
-    <ClCompile Include="ch08_triangle.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="ch08_triangle.h" />
+    <ClCompile Include="copyobj.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
