@@ -11,6 +11,7 @@ private:
 	int score_;
 };
 
+
 int _tmain(int argc, _TCHAR* argv[])
 {
 	Sample s1(100);
