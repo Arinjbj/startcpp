@@ -22,6 +22,7 @@
     <ClInclude Include="ch13_ImaginaryNumber.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ch13_02.cpp" />
     <ClCompile Include="ch13_ImaginaryNumber.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
