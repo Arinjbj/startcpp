@@ -35,3 +35,15 @@ ImaginaryNumber ImaginaryNumber::operator+(const ImaginaryNumber ima)
 	result.i += ima.i;
 	return result;
 }
+
+ImaginaryNumber ImaginaryNumber::operator++(void)
+{
+	++this->n;
+	return *this;
+}
+
+ImaginaryNumber ImaginaryNumber::operator++(int dummy)
+{
+	++this->i;
+	return *this;
+}

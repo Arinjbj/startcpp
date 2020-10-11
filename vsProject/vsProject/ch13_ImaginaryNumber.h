@@ -17,6 +17,8 @@ public:
 	string getImaginaryNumber();
 	ImaginaryNumber AddImaginary(const ImaginaryNumber ima);
 	ImaginaryNumber operator + (const ImaginaryNumber ima);
+	ImaginaryNumber operator ++ (void);
+	ImaginaryNumber operator ++ (int dummy);
 private:
 	double n;
 	double i;

@@ -14,5 +14,9 @@ int main()
 	cout << ima3.getImaginaryNumber() << endl;
 	ima4 = ima1 + ima2;
 	cout << ima4.getImaginaryNumber() << endl;
+	++ima4;
+	cout << ima4.getImaginaryNumber() << endl;
+	ima4++;
+	cout << ima4.getImaginaryNumber() << endl;
 	return 0;
 }
