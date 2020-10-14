@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ch13_time.h" />
+    <ClInclude Include="ch13_circle.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch13_06.cpp" />
-    <ClCompile Include="ch13_time.cpp" />
+    <ClCompile Include="ch13_circle.cpp" />
+    <ClCompile Include="ch13_ex01.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
