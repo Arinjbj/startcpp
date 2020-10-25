@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch15_01.cpp" />
+    <ClInclude Include="ch15_grade.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ch15_02.cpp" />
+    <ClCompile Include="ch15_grade.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
