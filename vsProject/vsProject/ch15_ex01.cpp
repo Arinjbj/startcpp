@@ -2,8 +2,8 @@
 
 int main()
 {
-	Stack s;
-	int n;
+	StackT<double> s;
+	double n;
 
 	cout << "ют╥б : ";
 	cin >> n;
